@@ -1,6 +1,13 @@
 # C.V.
-Sure! Here's a simple and professional **README** file for a **CV (Curriculum Vitae) / Resume website** project. You can copy and modify it to suit your actual project details:
+# 📄 Interactive Resume
+
+🔗 **GitHub Repository:** [https://github.com/bhangunavi/C.V](https://github.com/bhangunavi/C.V)  
+🌐 **Live Demo:** [https://navdep.netlify.app/](https://navdep.netlify.app/)
 page url : https://github.com/bhangunavi/C.V.
+
+
+Welcome to my **Interactive Resume** built with **HTML, CSS, and JavaScript**! ...
+
 ---
 
 # 📄 Interactive Resume
