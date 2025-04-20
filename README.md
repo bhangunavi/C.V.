@@ -8,8 +8,7 @@ Sure! Here's a simple and professional **README** file for a **CV (Curriculum Vi
 Welcome to my **Interactive Resume** built with **HTML, CSS, and JavaScript**! This project showcases my skills, experience, and background in an engaging and responsive web format.
 
 ## 🔗 Live Demo
-
-[View Resume Online](https://your-deployed-link.com)
+[https://navdep.netlify.app/]
 
 ## 🚀 Features
 
