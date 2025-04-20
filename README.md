@@ -1,6 +1,6 @@
 # C.V.
 Sure! Here's a simple and professional **README** file for a **CV (Curriculum Vitae) / Resume website** project. You can copy and modify it to suit your actual project details:
-
+page url : https://github.com/bhangunavi/C.V.
 ---
 
 # 📄 Interactive Resume
